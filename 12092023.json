@@ -1,0 +1,88 @@
+[{
+    "storyUrl": "Nipah-virus-deaths-in-Kerala-12-09-2023",
+    "category": "medicine",
+    "playerItems": [
+        {
+            "template": "CoverItemTemplate",
+            "img": "https://openthemagazine.com/wp-content/uploads/2023/09/Nipah1.jpg",
+            "h1": "Union Health Minister confirms two Nipah virus deaths in Kerala.",
+            "logo": "https://www.scrollbyte.com/logo.svg"
+        },
+        {
+            "template": "TextWithImageTemplate",
+            "img": "https://www.oneindia.com/politicians/image/302x100x402x1/mansukh-mandaviya-71757.jpg",
+            "p": "Union Health Minister Mansukh Mandaviya said Two deaths reported from Kerala’s Kozhikode district were caused by Nipah virus"
+        },
+        {
+            "template": "TextWithImageTemplate",
+            "img": "https://images.pexels.com/photos/3825586/pexels-photo-3825586.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "p": "Central team of experts has been sent to Kerala to assist the State government in the management of the Nipah virus infection"
+        },
+        {
+            "template": "TextWithImageTemplate",
+            "img": "https://openthemagazine.com/wp-content/uploads/2023/09/Nipah1.jpg",
+            "p": "Samples of four more people from Kerala have been sent to the National Institute of Virology in Pune to test for the deadly virus"
+        }
+    ]
+},
+{
+    "storyUrl": "40%-sitting-MPs-have-criminal-cases-12-09-2023",
+    "category": "politics",
+    "playerItems": [
+        {
+            "template": "CoverItemTemplate",
+            "img": "https://bsmedia.business-standard.com/_media/bs/img/article/2018-09/19/full/1537325863-3541.jpg",
+            "h1": "40% sitting MPs have criminal cases, 25% serious criminal cases: ADR ",
+            "logo": "https://www.scrollbyte.com/logo.svg"
+        },
+        {
+            "template": "TextWithImageTemplate",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE63JJT7GCozQKNzFlXJz02qcGxRO8Tcqr6A&usqp=CAU",
+            "h1": "Self-sworn affidavits of 763 sitting MPs",
+            "p": "Association for Democratic Reforms (ADR) and National Election Watch (NEW) have analysed the self-sworn affidavits of 763 sitting MPs out of 776 seats of Lok Sabha and Rajya Sabha"
+        },
+        {
+            "template": "TextWithImageTemplate",
+            "img": "https://m.timesofindia.com/photo/100547645/100547645.jpg",
+            "p": "The average worth of assets per MP from Lok Sabha and Rajya Sabha is ₹38.33 crores and 53 (7%) are billionaires"
+        },
+        {
+            "template": "TextWithImageTemplate",
+            "img": "https://www.hindustantimes.com/ht-img/img/2023/05/27/550x309/twtb_1685187549765_1685187561799.png",
+            "p": "306 (40%) sitting MPs have declared criminal cases against them"
+        },
+        {
+            "template": "TextWithImageTemplate",
+            "img": "https://images.indianexpress.com/2023/05/Parliament-PTI05_26_2023_000133B-5-a.jpg",
+            "p": "Out of the 763 sitting MPs analysed, 306 (40%) sitting MPs have declared criminal cases against them and 194 (25%) sitting MPs have declared serious criminal cases including cases related to murder, attempt to murder, kidnapping, crimes against women, etc, it said"
+        }
+    ]
+},
+{
+    "storyUrl": "25-30% increase in footfall at ATMs after UPI-ATM-13-09-2023",
+    "category": "technology",
+    "playerItems": [
+        {
+            "template": "CoverItemTemplate",
+            "img": "https://static.toiimg.com/thumb/resizemode-4,msid-103610417,imgsize-34272,width-396,height-540/103610417.jpg",
+            "h1": "Bankers target 25-30% increase in footfall at ATMs after UPI-ATM services",
+            "logo": "https://www.scrollbyte.com/logo.svg"
+        },
+        {
+            "template": "TextWithImageTemplate",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE63JJT7GCozQKNzFlXJz02qcGxRO8Tcqr6A&usqp=CAUhttps://st.adda247.com/https://wpassets.adda247.com/wp-content/uploads/multisite/sites/5/2021/09/30062703/npci-india-payments-cap-1000x600-1.jpg",
+            "p": "India’s first UPI-ATM feature was launched by the National Payments Corporation of India on September 5, this year"
+        },
+        {
+            "template": "TextWithImageTemplate",
+            "img": "https://st.adda247.com/https://wpassets.adda247.com/wp-content/uploads/multisite/sites/5/2023/09/07113407/ezgif.com-gif-maker289229.jpg",
+            "p": "It uses a cardless cash withdrawal technology that makes the process easier and more convenient"
+        },
+        {
+            "template": "TextWithImageTemplate",
+            "img": "https://studycafe.in/cdn-cgi/image/fit=contain,format=webp,gravity=auto,metadata=none,quality=80,width=1200,height=730/wp-content/uploads/2023/09/600-UPI-ATMs-launched-by-Bank-of-Baroda.jpg",
+            "p": "At present, the State-owned Bank of Baroda (BoB) has enabled the UPI ATM facility at over 6,000 ATMs across the country"
+        }       
+    ]
+}
+]
