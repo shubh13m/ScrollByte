@@ -1,0 +1,100 @@
+[
+    {
+        "storyUrl": "Santiniketan-in-WestBengal-Gains-UNESCO-World-Heritage-Status-17-09-2023",
+        "category": "National",
+        "playerItems": [
+            {
+                "template": "CoverItemTemplate",
+                "img": "https://www.getbengal.com/uploads/story_image/Santiniketan-UNESCO-World-Heritage.jpg",
+                "h1": "Santiniketan in West Bengal Gains UNESCO World Heritage Status",
+                "p": "Santiniketan, located in West Bengal and founded by poet Rabindranath Tagore over a century ago, has been added to the UNESCO World Heritage List.",
+                "logo": "https://www.scrollbyte.com/logo.svg"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.hindustantimes.com/ht-img/img/2023/05/10/550x309/Santiniketan-in-West-Bengal-s-Birbhum-district-_1683746835197.jpg",
+                "h1": "Cultural Significance",
+                "p": "Santiniketan is renowned for its cultural significance as the home of Visva-Bharati University, which was founded by Rabindranath Tagore in 1921"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://static.toiimg.com/photo/77408359.cms",
+                "h1": "Tagore's Legacy",
+                "p": "One of India's most celebrated poets, musicians, and cultural icons. Santiniketan served as his residence and the hub for his creative endeavors"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://en-media.thebetterindia.com/uploads/2016/08/DSCN0272.jpg",
+                "h1": "Educational Hub",
+                "p": "Visva-Bharati University is a prominent educational institution known for its emphasis on blending traditional Indian knowledge with modern education"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.re-thinkingthefuture.com/wp-content/uploads/2021/10/A5710-The-Architectural-Style-of-Shantiniketan-Kolkata-Image-1.jpg",
+                "h1": "Unique Architecture",
+                "p": "Santiniketan's architectural style is distinctive, characterized by open-air classrooms, red earth buildings, and a harmonious integration of nature and learning spaces."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://nomadicweekends.com/blog/wp-content/uploads/2019/12/dance-performance-on-the-occasion-of-basant-utsav.jpg",
+                "h1": "Influential Cultural Hub",
+                "p": "The town has been a center for various cultural activities, including the celebration of Tagore's literary works, music, dance, and traditional festivals"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.getbengal.com/uploads/story_image/Santiniketan-UNESCO-World-Heritage.jpg",
+                "h1": "Long-standing Efforts",
+                "p": "India had been actively pursuing UNESCO World Heritage status for Santiniketan for a significant period, recognizing its historical and cultural importance"
+            }
+        ]
+    },
+    {
+        "storyUrl": "India-defeated-Sri-Lanka-in-the-Asia-Cup-final-17-09-2023",
+        "category": "Cricket",
+        "playerItems": [
+            {
+                "template": "CoverItemTemplate",
+                "img": "https://st.adda247.com/https://wpassets.adda247.com/wp-content/uploads/multisite/sites/5/2023/06/16155337/Asia-Cup.jpeg",
+                "h1": "India defeated Sri Lanka in the Asia Cup final",
+                "p": "India achieved victory in just 37 balls, making it the lowest team total in the history of the Asia Cup.",
+                "logo": "https://www.scrollbyte.com/logo.svg"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.hindustantimes.com/ht-img/img/2023/09/17/550x309/CRICKET-ASIA-2023-IND-SRI-ODI-PODIUM-6_1694958650972_1694958704410.jpg",
+                "h1": "Asia Cup Dominance",
+                "p": "India's win marked their eighth Asia Cup title, showcasing their historical dominance in the tournament."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://economictimes.indiatimes.com/thumb/msid-103737636,width-1920,height-1280,resizemode-4,imgsize-163100/indias-mohammed-siraj-r-receives-the-player-of-the-match-award-at-the-end-of-the-asia-cup-2023-one-day-international-odi-final-cricket-match-between-india-and-sri-lanka-at-the-r-premadasa-stadium-in-colombo-on-september-17-2023-.jpg?from=mdr",
+                "h1": "Outstanding Bowling",
+                "p": "Mohammed Siraj's remarkable performance in the final, taking six wickets, was a key factor in India's victory."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://th-i.thgim.com/public/incoming/gcyfmn/article67318571.ece/alternates/FREE_1200/Sri_Lanka_Asia_Cup_Cricket_17383.jpgg",
+                "h1": "Record-low Total",
+                "p": "Sri Lanka's score of 50 as they were bowled out for just 50 runs in 89 minutes in the final was the lowest ever in the Asia Cup's four-decade history."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://th-i.thgim.com/public/incoming/gcyfmn/article67318571.ece/alternates/FREE_1200/Sri_Lanka_Asia_Cup_Cricket_17383.jpg",
+                "h1": "Talented Youngsters",
+                "p": "Ishan Kishan and Shubman Gill, two promising young talents, efficiently finished the match for India."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://crickettimes.com/wp-content/uploads/2023/09/India-vs-Sri-Lanka-Asia-Cup-2023-Final.webp",
+                "h1": "Captain's Strategy",
+                "p": "Rohit Sharma's decision to let the youngsters complete the chase, which they did in just 27 minutes, highlighted his trust in the next generation of Indian cricket."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/colombo-165421176-16x9.jpg?VersionId=u815.S.1pXnstAoyygSUga1pDk2tgRSa&size=690:388",
+                "h1": "Weather Concerns",
+                "p": "The match had a delayed start due to overcast conditions and the threat of a thunderstorm, but the weather ultimately did not affect the game."
+            }
+        ]
+    }
+]
