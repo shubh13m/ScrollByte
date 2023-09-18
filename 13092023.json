@@ -1,0 +1,101 @@
+[
+    {
+        "storyUrl": "Arundhati-Roy-awarded-European-Lifetime-Achievement-13-09-2023",
+        "category": "Awards",
+        "playerItems": [
+            {
+                "template": "CoverItemTemplate",
+                "img": "https://assets.vogue.in/photos/619e2610db973612a0f8bac3/2:3/w_2560%2Cc_limit/Arundhati%2520Roy%2520website%25201.jpg",
+                "h1": "Arundhati Roy awarded the 45th European Prize for Lifetime Achievement: 3 works by the critically acclaimed author",
+                "logo": "https://www.scrollbyte.com/logo.svg"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://images.squarespace-cdn.com/content/v1/5ccb06a9b914495851cebc76/1599760298791-74WGC308A7VJKGF0MSU1/20200902_174138.jpg?format=1000w",
+                "h1": "Azadi: Freedom. Fascism. Fiction"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://rukminim1.flixcart.com/image/850/1000/xif0q/regionalbooks/c/b/w/the-god-of-small-things-novel-by-arundhati-roy-english-original-imaggmx3mgmkdpgq.jpeg?q=90",
+                "h1": "The God of Small Things."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://m.media-amazon.com/images/I/91IdJxE7HnL._AC_UF1000,1000_QL80_.jpg",
+                "h1": "The Ministry of Utmost Happiness"
+            }
+        ]
+    },
+    {
+        "storyUrl": "Top-Indian-Athletes-Ready-to-Shine-at-Asian-Games-2023-13-09-2023",
+        "category": "Sports",
+        "playerItems": [
+            {
+                "template": "CoverItemTemplate",
+                "img": "https://assets.vogue.in/photos/619e2610db973612a0f8bac3/2:3/w_2560%2Cc_limit/Arundhati%2520Roy%2520website%25201.jpg",
+                "h1": "Top Indian Athletes Ready to Shine at Asian Games-2023-13-09-2023",
+                "logo": "https://www.scrollbyte.com/logo.svg"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://img.etimg.com/photo/93129538/93129538.jpg",
+                "h1": "Neeraj Chopra",
+                "p1": "Indian track and field athlete"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.mykhel.com/img/2022/10/swapnabarman-heptathlete-950-1664911773.jpg",
+                "h1": "Swapna Barman",
+                "p1": "Indian heptathlete"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://starsunfolded.com/wp-content/uploads/2023/08/Aditi-Swami-picture.jpg",
+                "h1": "Aditi Swami",
+                "p1": "Indian Archer"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://images.bhaskarassets.com/thumb/1800x1800/web2images/521/2023/08/10/untitled-design-2023-08-10t221929324_1691686186.jpg",
+                "h1": "Ojas Deotale",
+                "p1": "Indian Archer"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://images.tv9hindi.com/wp-content/uploads/2023/03/jeswin-aldrin-long-jump-national-record.jpg",
+                "h1": "Jeswin Aldrin",
+                "p1": "Indian Long Jumper"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://im.rediff.com/sports/2023/jun/10sree.jpg?w=670&h=900",
+                "h1": "Murali Sreeshankar",
+                "p1": "Indian Long Jumper"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://images.indianexpress.com/2022/07/tajinder-reuters-fb.jpg",
+                "h1": "Tajinderpal Singh",
+                "p1": "Indian Shot putter"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Jinson_Johnson_Of_India_In_Action_%28cropped%29.jpg",
+                "h1": "Jinson Johnson",
+                "p1": "Indian middle-distance runner"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/1/17/Avinash_Sable_-_3%2C000m_steeplechase_at_the_2020_Summer_Olympic_Games%2C_Tokyo%2C_Japan_%2851352521594%29_%28cropped%29.jpg",
+                "h1": "Avinash Sable",
+                "p1": " Indian track and field athlete"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Parul_Chaudhary_2017_portrait_%28cropped%29.jpg",
+                "h1": "Parul Chaudhary",
+                "p1": "Steeplechase"
+            }
+        ]
+    }
+]
