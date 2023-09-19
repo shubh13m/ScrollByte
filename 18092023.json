@@ -1,0 +1,100 @@
+[
+    {
+        "storyUrl": "₹13,000-Crore-Vishwakarma-Yojana-for-Artisans-18-09-2023",
+        "category": "government",
+        "playerItems": [
+            {
+                "template": "CoverItemTemplate",
+                "img": "https://i0.wp.com/www.opindia.com/wp-content/uploads/2023/09/pm-modi.jpg?resize=696%2C398&ssl=1",
+                "h1": "PM Modi Launches ₹13,000 Crore Vishwakarma Yojana for Artisans and Inaugurates 'Yashobhoomi' Convention Center",
+                "logo": "https://www.scrollbyte.com/logo.svg"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://gumlet.assettype.com/saamtv%2F2023-08%2Ff51b6d11-8d60-4c61-b04a-617bd8cdddad%2FWebsite_Banner___2023_08_15T122304_933.jpg?auto=format%2Ccompress&fit=max&format=webp&w=400&dpr=2.6",
+                "h1":"Vishwakarma Yojana",
+                "p": "Pradhan Mantri Vishwakarma Yojana, a ₹13,000 crore initiative, to support and enhance the skills of traditional artisans and craftspeople for the modern market."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.incharge.org/wp-content/uploads/2020/03/paying-off-a-loan-early.jpg",
+                "h1": "Scheme Benefit",
+                "p":"collateral-free enterprise development loans of ₹1 lakh (first tranche repayable in 18 months) and ₹2 lakh (second tranche repayable in 30 months) to traditional artisans."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.worldbank.org/content/dam/photos/780x439/2020/mar-3/debt-topic-return.jpg",
+                "h1": "Government guarantee",
+                "p":"concessional interest rate of 5%, with an interest subvention cap of 8% covered by the Ministry of MSME. Central government bears the credit guarantee fees."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.mse.events/wp-content/uploads/2021/10/MICE-scaled.jpg",
+                "h1": "MICE Industry",
+                "p":"MICE sector (meetings, incentives, conferences, and exhibitions) plays a crucial role in promoting business tourism and events, contributing significantly to a country's economy"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://akm-img-a-in.tosshub.com/indiatoday/styles/medium_crop_simple/public/2023-09/whatsapp_image_2023-09-15_at_3.10.21_pm_1.jpeg?VersionId=c40s4DPAEl1sugysksmwYCMbRjFrr4z.",
+                "h1": "Yashobhoomi",
+                "p":"PM inaugurated the first phase of the ₹5,400 crore India International Convention and Expo Centre, named 'Yashobhoomi,' located in Dwarka, New Delhi."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://c.ndtvimg.com/2023-09/uls7j08g_yashobhoomi-convention-centre_625x300_15_September_23.jpeg?im=FaceCrop,algorithm=dnn,width=650,height=400?downsize=360:*",
+                "h1": "Yashobhoomi Details",
+                "p":"'Yashobhoomi' Convention and Expo Centre covers a project area of over 8.9 lakh square meters and has a built-up area of more than 1.8 lakh square meters. It ranks among the world's largest MICE"
+            }
+
+        ]
+    },
+    {
+        "storyUrl": "Digital-Registration-of-Births-and-Deaths-18-09-2023",
+        "category": "government",
+        "playerItems": [
+            {
+                "template": "CoverItemTemplate",
+                "img": "https://images.hindustantimes.com/img/2021/12/10/550x309/90e0165e-59f0-11ec-91cd-14ffdfd43e4d_1639165284770.jpg",
+                "h1": "Digital Registration of Births and Deaths on Centre's Portal to Begin on October 1",
+                "logo": "https://www.scrollbyte.com/logo.svg"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://ychef.files.bbci.co.uk/976x549/p0dy2xdc.jpg",
+                "h1":"All Births and Deaths",
+                "p": "Starting from October 1, all reported births and deaths in India will be digitally registered on the Centre's portal"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.jatinverma.org/uploads/2023_08/WhatsApp_Image_2023-08-03_at_5_03_52_PM.jpg",
+                "h1": "Registration of Births and Deaths (Amendment) Act, 2023",
+                "p":"Introduces digital birth certificates that can be used for various purposes, including education, driving licenses, government jobs, passports, Aadhaar, voter enrollment, and marriage registration."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://static.javatpoint.com/tutorial/digital-electronics/images/number-system.png",
+                "h1": "Comprehensive Digital System",
+                "p":"The new system streamlines the process by providing a single digital document for various official purposes."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.sentinelassam.com/wp-content/uploads/2019/12/NRC.jpeg",
+                "h1": "NPR and NRC",
+                "p":"The National Population Register (NPR) serves as a foundational step towards creating the National Register of Citizens (NRC), as per the Citizenship Act."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.skillcast.com/hubfs/filetransfer_1200x627.jpg",
+                "h1": "Data Sharing",
+                "p":"States are mandated to share birth and death data with the central government through the Civil Registration System (CRS) portal."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.uidaionlineaadharcard.com/wp-content/uploads/2021/08/aa34538b884a1103e9cf82bbd52cfad7.jpg",
+                "h1": "Aadhaar Integration",
+                "p":"The Act emphasizes the use of Aadhaar numbers, which have a high saturation rate in India, for birth registration"
+            }
+
+        ]
+    }
+]
