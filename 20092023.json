@@ -1,0 +1,184 @@
+[
+    {
+        "storyUrl": "Lok-Sabha-Passes-Women’s-Reservation-Bill-with-Overwhelming-Support-20-09-2023",
+        "category": "india_world",
+        "playerItems": [
+            {
+                "template": "CoverItemTemplate",
+                "img": "https://www.livemint.com/lm-img/img/2023/09/21/600x338/PTI09-21-2023-000392A-0_1695316066208_1695316096187.jpg",
+                "h1": "Lok Sabha Passes Women’s Reservation Bill with Overwhelming Support",
+                "logo": "https://www.scrollbyte.com/logo.svg"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://gumlet.assettype.com/themooknayak-en%2F2023-09%2F95ffd832-73b0-4831-acab-3d2746c2c801%2FWomen_Reservation.jpg?auto=format%2Ccompress&fit=max&format=webp&w=400&dpr=2.6",
+                "h1":"Women’s Reservation Bill",
+                "p": "Lok Sabha passed the Women’s Reservation Bill with 454 votes in favor and only two votes against it."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://auramag.in/wp-content/uploads/2021/09/WOMENS-RESERVATION-BILL-@aura-e-magazine.jpg",
+                "h1": "Reservation",
+                "p":"The bill provides for 33% reservation for women in the Lok Sabha and state assemblies."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://c.ndtvimg.com/2022-07/vqem4e0c_women-mps-group-photo_625x300_18_July_22.jpg",
+                "h1": "Delay",
+                "p":"Implementation of the bill will occur after the completion of the census and delimitation exercise."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://assets.telegraphindia.com/telegraph/2023/Sep/1695217101_amit-shah-2.jpg",
+                "h1": "Till 2029",
+                "p":"Union Home Minister Amit Shah indicated that these exercises would take place after the 2029 general elections."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://th-i.thgim.com/public/incoming/hby6vo/article67325905.ece/alternates/FREE_1200/PTI09_20_2023_000028B.jpg",
+                "h1": "Demand for OBC",
+                "p":"Congress party leader Sonia Gandhi supported the bill but demanded immediate implementation and reservation for Other Backward Class (OBC) women."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/9/2023_9$largeimg_1835971004.jpg",
+                "h1": "Reservation Period",
+                "p":"The bill proposes a 15-year reservation period, including one-third quota for women within SC/ST reserved seats."
+            }
+
+        ]
+    },
+    {
+        "storyUrl": "Constitution-Bench-to-Scrutinize-Prolonged-SC/ST-Reservation-in-Legislative-Bodies-20-09-2023",
+        "category": "india_world",
+        "playerItems": [
+            {
+                "template": "CoverItemTemplate",
+                "img": "https://im.rediff.com/news/2022/nov/07sc-bench-rules-on-ews-quota.jpg",
+                "h1": "Constitution Bench to Scrutinize Prolonged SC/ST Reservation in Legislative Bodies",
+                "logo": "https://www.scrollbyte.com/logo.svg"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://static.theprint.in/wp-content/uploads/2023/01/SC-3-1024x576.jpg?compress=true",
+                "h1":"Assess the constitutionality",
+                "p": "A Constitution Bench led by Chief Justice D.Y. Chandrachud will assess the constitutionality of continuous extensions to SC/ST reservation in Lok Sabha and State Legislative Assemblies."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://blog.examarly.com/wp-content/uploads/2023/01/Article-334-Of-The-Indian-Constitution.png",
+                "h1": "Article 334",
+                "p":"Originally, the Constitution stipulated a 10-year period for SC/ST reservation, but Article 334 has been amended repeatedly, extending the deadline."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://m.groundreport.in/sortd-service/imaginary/v22-01/jpg/large/high?url=Z3JvdW5kcmVwb3J0LWluLXByb2Qtc29ydGQvbWVkaWEwZmNmNjZlMC0xODBmLTExZWQtYTFkNy05YjdjNzc1MDRiNmFqcGc=",
+                "h1": "2030 deadline",
+                "p":"The 2019 Constitution (104th Amendment) Act fixed 2030 as the deadline for SC/ST reservation, leading to 80 years of reservation since the Constitution's adoption."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://ajayrajbanjaara.com/wp-content/uploads/2022/11/1658161635411.jpeg",
+                "h1": "",
+                "p":"The Bench will examine whether Parliament can amend Article 334 to keep SC/ST reservation alive."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://imgeng.jagran.com/images/2021/dec/bhimrao_ambedkar1638770739145.jpg",
+                "h1": "History",
+                "p":"Dr. B.R. Ambedkar initially intended SC/ST reservation for a 10-year period from the Indian Constitution's commencement in 1950."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://blog.ipleaders.in/wp-content/uploads/2020/01/Screen-Shot-2020-01-13-at-10.19.18-PM.png",
+                "h1": "Multiple Amendments",
+                "p":"Article 334 of the Constitution deals with the time period for ceasing reservation for SCs/STs and has been amended multiple times."
+            }
+
+        ]
+    },
+    {
+        "storyUrl": "NEET-PG-2023-Qualifying-Percentile-Reduced-to-Zero-for-All-Categories-21-09-2023",
+        "category": "education",
+        "playerItems": [
+            {
+                "template": "CoverItemTemplate",
+                "img": "https://s3.india.com/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-14-at-2.51.49-PM.jpeg",
+                "h1": "NEET PG 2023 Qualifying Percentile Reduced to Zero for All Categories",
+                "logo": "https://www.scrollbyte.com/logo.svg"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.allschoolscolleges.com/images/articles/551664804419.png",
+                "h1":"Reduced percentile",
+                "p": "The Medical Counselling Committee (MCC) has reduced the qualifying percentile for NEET PG 2023 to zero for all categories."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://medicaldialogues.in/h-upload/2022/11/05/190053-neet-pg-3.webp",
+                "h1": "NEET PG",
+                "p":"This decision enables all NEET PG 2023 exam takers to participate in the postgraduate medical counseling process."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.ima-india.org/ima/images/IMA%20LOGO.jpg",
+                "h1": "Seat Wastage",
+                "p":"The Indian Medical Association (IMA) had requested this reduction, as vacant medical college seats were seen as a wastage of national resources."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://images.indianexpress.com/2023/03/stethoscope-ga7c8db431_1280-1.jpg",
+                "h1": "Vacant Seats",
+                "p":"The IMA highlighted that high percentiles had prevented deserving students from filling vacant PG seats in medical colleges."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://resize.indiatvnews.com/en/resize/newbucket/400_-/2021/10/tn-1635486199.jpg",
+                "h1": "Maximum Utilization",
+                "p":"Reducing the qualifying percentile to zero aims to ensure maximum utilization of available medical college seats."
+            }
+        ]
+    },
+    {
+        "storyUrl": "Relieve-Knee-Pain-with-5-Effective-Ankle-Exercises-21-09-2023",
+        "category": "lifestyle",
+        "playerItems": [
+            {
+                "template": "CoverItemTemplate",
+                "img": "https://domf5oio6qrcr.cloudfront.net/medialibrary/9110/iStock-592655170.jpg",
+                "h1": "Relieve Knee Pain with 5 Effective Ankle Exercises",
+                "logo": "https://www.scrollbyte.com/logo.svg"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://geeksonfeet.com/img/workouts/calfraises.jpg",
+                "h1":"Calf Raises",
+                "p": "1. Stand with feet hip-width apart  2. Raise heels off the ground, balancing on the balls of your feet  3. Perform 3 sets of 15-20 repetitions"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.spotebi.com/wp-content/uploads/2015/03/ankle-circles-exercise-illustration.jpg",
+                "h1": "Ankle Circles",
+                "p":"1. Sit with legs extended  2. Rotate ankles in clockwise and counterclockwise circles  3. Do 10-15 circles in both directions for each ankle"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.versusarthritis.org/media/23281/alphabet-writing-500x547.jpg",
+                "h1": "Ankle Alphabet",
+                "p":"1. Sit or lie down, lift one leg, and write the alphabet in the air with your big toe  2. Repeat for the other leg, aiming for the full alphabet"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbizutbiqIkOe-rUexNeZDaVu6MAGQiR7HvA&usqp=CAU",
+                "h1": "Towel Scrunches",
+                "p":"1. Sit in a chair and use toes to scrunch a towel toward you  2. Perform 15-20 repetitions for each foot"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://s3assets.skimble.com/assets/5716/skimble-workout-trainer-exercise-heel-walks-2_iphone.jpg",
+                "h1": "Heel Walks",
+                "p":"1. Walk forward on your heels with toes pointing ahead  2. Take small steps, walk for 20-30 seconds, and repeat"
+            }
+        ]
+    }
+]
