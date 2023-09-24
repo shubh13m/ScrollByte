@@ -1,17 +1,48 @@
 {
-    "storyUrl": "5g-phones-launching-in-june-2023-39479-30-05-2023",
-    "category": "technology",
+    "storyUrl": "",
+    "category": "india_world",
     "playerItems": [
         {
             "template": "CoverItemTemplate",
-            "img": "https://images.scrollbyte.com/images/image77142262.webp",
-            "h1": "5G phones launching in June 2023",
+            "img": "",
+            "h1": "",
             "logo": "https://www.scrollbyte.com/logo.svg"
         },
         {
             "template": "TextWithImageTemplate",
-            "img": "https://images.scrollbyte.com/images/image44020223.webp",
-            "p": "The OnePlus Nord 3 is also possibly launching in June and is rumoured to be a rebranded OnePlus Ace 2V with significant upgrades over the Nord 2T."
+            "img": "",
+            "h1": "",
+            "p": ""
+        },
+        {
+            "template": "TextWithImageTemplate",
+            "img": "",
+            "h1": "",
+            "p": ""
+        },
+        {
+            "template": "TextWithImageTemplate",
+            "img": "",
+            "h1": "",
+            "p": ""
+        },
+        {
+            "template": "TextWithImageTemplate",
+            "img": "",
+            "h1": "",
+            "p": ""
+        },
+        {
+            "template": "TextWithImageTemplate",
+            "img": "",
+            "h1": "",
+            "p": ""
+        },
+        {
+            "template": "TextWithImageTemplate",
+            "img": "",
+            "h1": "",
+            "p": ""
         }
     ]
 }
