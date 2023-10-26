@@ -1,3 +1,27 @@
+Please analyze the following paragraph, provide a headline, extract key points with relevant headings, generate a 50-word abstract, and suggest relevant hashtags for the topic. Also, include some generic news-related hashtags.
+
+Create a json structure from the data generated in a format provided in the last.
+Update the storyUrl field using Headline as data and join each word in storyUrl using hyphen.
+Update the Headline from data in the h1 field of template valued as CoverItemTemplate. Update each keypoint heading in h1 of template valued as TextWithImageTemplate and detail of key point as p of of template valued as TextWithImageTemplate and keep repeating same pattern for each key point.
+
+{
+    "storyUrl": "",
+    "category": "india_world",
+    "playerItems": [
+        {
+            "template": "CoverItemTemplate",
+            "img": "",
+            "h1": "",
+            "logo": "https://www.scrollbyte.com/logo.svg"
+        },
+        {
+            "template": "TextWithImageTemplate",
+            "img": "",
+            "h1": "",
+            "p": ""
+        },
+
+-------------------------
 {
     "storyUrl": "",
     "category": "india_world",

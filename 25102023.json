@@ -1,0 +1,86 @@
+[
+    {
+        "storyUrl": "israel-calls-for-un-chief-resignation-and-apology-over-hamas-remarks",
+        "category": "india_world",
+        "playerItems": [
+            {
+                "template": "CoverItemTemplate",
+                "img": "https://static.timesofisrael.com/www/uploads/2023/10/AP23297525042383.jpg",
+                "h1": "Israel Calls for UN Chief's Resignation Over Hamas Remarks",
+                "logo": "https://www.scrollbyte.com/logo.svg"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/VWSNPYQFUZLRTGHLX2FQT7ZOLI.jpg",
+                "h1": "UN Chief's Controversial Remarks",
+                "p": "U.N. Secretary-General Antonio Guterres's comments to the Security Council, stating that attacks by Hamas 'did not happen in a vacuum,' provoked anger in Israel, leading to calls for his resignation and apology."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05fca2ec-995d-4e02-b05a-3b8a952738a1/970cc5e7-5361-4be1-a6a1-10d463e16079/1280x720/match/896/500/image.jpg?ve=1&tl=1",
+                "h1": "Cancellation of Meeting",
+                "p": "Israel's Minister of Foreign Affairs, Eli Cohen, canceled a scheduled meeting with Guterres, accusing him of 'tolerating and justifying' terrorism."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.hindustantimes.com/ht-img/img/2023/10/24/550x309/AP10-24-2023-000336A-0_1698167533001_1698167568671.jpg",
+                "h1": "Guterres' Perspective",
+                "p": "Guterres highlighted the dire situation in the Middle East, emphasizing the prolonged Palestinian occupation, but he also condemned Hamas attacks and collective punishment of the Palestinian people."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.livemint.com/lm-img/img/2023/10/25/600x338/Israel-Hostages-1_1698195681910_1698195707325.jpg",
+                "h1": "Israeli Officials' Outrage",
+                "p": "Israel's Ambassador to the UN, Gilad Erdan, criticized Guterres, asserting that his comments justify terrorism and questioned the UN's impartiality."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://dynaimage.cdn.cnn.com/cnn/digital-images/org/2b186c81-13a5-40d6-ac35-1c33f257cf07.JPG",
+                "h1": "Israel's Strong Stance",
+                "p": "Cohen emphasized that there's only one side to support and a commitment to eliminate Hamas entirely."
+            }
+        ]
+    },
+    {
+        "storyUrl": "supreme-court-sets-aside-death-penalty-due-to-hasty-trial-in-infant-rape-and-murder-case",
+        "category": "india_world",
+        "playerItems": [
+            {
+                "template": "CoverItemTemplate",
+                "img": "https://th-i.thgim.com/public/incoming/7bg05w/article67443541.ece/alternates/FREE_1200/INDEX_SUPREME_COURT_DSC3207.jpg",
+                "h1": "Supreme Court Sets Aside Death Penalty Due to 'Hasty Trial' in Infant Rape and Murder Case",
+                "logo": "https://www.scrollbyte.com/logo.svg"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.livelaw.in/h-upload/2019/08/01/750x450_362751-death-penalty-execution.jpg",
+                "h1": "Death Penalty Overturned",
+                "p": "The Supreme Court has overturned the death penalty of a man convicted in the rape and murder of an infant, citing an unfair and hurried trial that lacked 'judicial calm.'"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.simmrinlawgroup.com/wp-content/uploads/2022/06/collecting-evidence-during-an-investigation-scaled.jpg",
+                "h1": "Hasty Trial and Overlooked Evidence",
+                "p": "The trial of the accused, Naveen, took place in just 15 days and overlooked crucial evidence, including DNA proof and examination by forensic experts."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://th-i.thgim.com/public/incoming/7bg05w/article67443541.ece/alternates/FREE_1200/INDEX_SUPREME_COURT_DSC3207.jpg",
+                "h1": "Proper Opportunity for Defense",
+                "p": "Naveen's counsel argued that he was not given a proper opportunity to defend himself, and the death sentence would violate the law's established procedure."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://th-i.thgim.com/public/incoming/7bg05w/article67443541.ece/alternates/FREE_1200/INDEX_SUPREME_COURT_DSC3207.jpg",
+                "h1": "Retrial Ordered",
+                "p": "A three-judge bench ordered the case to be tried afresh, emphasizing the need to examine and confront all circumstantial evidence properly."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://images.squarespace-cdn.com/content/v1/56b4be6ec2ea51ac0c6598a4/1533903933085-TT8LEHW483ARO9XLPP0G/image-asset.jpeg?format=2500w",
+                "h1": "Importance of Judicial Calm",
+                "p": "The Supreme Court stressed the importance of a fair and impartial trial, emphasizing that the essence of such a trial lies in the embrace of 'judicial calm' and eliminating bias or prejudice."
+            }
+        ]
+    }
+]

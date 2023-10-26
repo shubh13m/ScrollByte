@@ -1,0 +1,48 @@
+{
+    "storyUrl": "",
+    "category": "india_world",
+    "playerItems": [
+        {
+            "template": "CoverItemTemplate",
+            "img": "",
+            "h1": "",
+            "logo": "https://www.scrollbyte.com/logo.svg"
+        },
+        {
+            "template": "TextWithImageTemplate",
+            "img": "",
+            "h1": "",
+            "p": ""
+        },
+        {
+            "template": "TextWithImageTemplate",
+            "img": "",
+            "h1": "",
+            "p": ""
+        },
+        {
+            "template": "TextWithImageTemplate",
+            "img": "",
+            "h1": "",
+            "p": ""
+        },
+        {
+            "template": "TextWithImageTemplate",
+            "img": "",
+            "h1": "",
+            "p": ""
+        },
+        {
+            "template": "TextWithImageTemplate",
+            "img": "",
+            "h1": "",
+            "p": ""
+        },
+        {
+            "template": "TextWithImageTemplate",
+            "img": "",
+            "h1": "",
+            "p": ""
+        }
+    ]
+}
