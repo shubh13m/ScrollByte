@@ -1,0 +1,200 @@
+[
+    {
+        "storyUrl": "koffee-with-karan-season-8-premieres-with-heartwarming-moments",
+        "category": "entertainment",
+        "playerItems": [
+            {
+                "template": "CoverItemTemplate",
+                "img": "https://assets.gadgets360cdn.com/pricee/assets/product/202310/Koffee_With_Karan_1697433448.jpg",
+                "h1": "Koffee with Karan Season 8 Premieres with Heartwarming Moments",
+                "logo": "https://www.scrollbyte.com/logo.svg"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/10/Koffee-With-Karan-Season-8-How-Many-Episodes.webp",
+                "h1": "Season 8 Premieres with Warmth",
+                "p": "The new season of Koffee with Karan prioritizes a heartwarming atmosphere. Gossip takes a backseat in the latest season."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://gumlet.assettype.com/filmcompanion%2F2023-10%2Fb60dc4ee-bf9f-4fb5-9582-1023b9db15b9%2FKWK_RanveerDeepika_Lead.jpg?auto=format%2Ccompress&fit=max&w=1200",
+                "h1": "Ranveer's Humble Engagement Ring Choice",
+                "p": "Ranveer Singh reveals he chose an engagement ring for Deepika Padukone that was 'beyond my resources.'"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.hindustantimes.com/ht-img/img/2023/10/25/1600x900/koffeewithkaran7_1661326899985_1698243334359.jpg",
+                "h1": "Unconfirmed Relationship Rumors",
+                "p": "Deepika Padukone and Ranveer Singh neither confirmed nor denied rumors of a relationship rift."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://c.ndtvimg.com/2023-10/qoksomm_deepikaranveerkwk3_625x300_23_October_23.jpg",
+                "h1": "Theater Class Connection",
+                "p": "Ranveer Singh and Nakuul Mehta share a connection as they were in the same theater class."
+            }
+        ]
+    },
+    {
+        "storyUrl": "qatar-sentences-eight-indian-navy-officials-to-death-for-alleged-espionage",
+        "category": "india_world",
+        "playerItems": [
+            {
+                "template": "CoverItemTemplate",
+                "img": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2023/10/26/1305252-indian-navy-death-sentence-qatar.jpg?im=Resize=(1280,720)",
+                "h1": "Qatar Sentences Eight Indian Navy Officials to Death for Alleged Espionage",
+                "logo": "https://www.scrollbyte.com/logo.svg"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://images.indianexpress.com/2023/10/navy.jpg",
+                "h1": "Death Sentences for Indian Navy Officials",
+                "p": "Eight former Indian Navy officials were sentenced to death by a Qatar court for alleged espionage. They were charged with spying on a submarine program on behalf of Israel."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://cdn.zeebiz.com/sites/default/files/2023/10/26/266699-s-jaishankar-ani.jpg",
+                "h1": "Ministry of External Affairs' Reaction",
+                "p": "The Ministry of External Affairs (MEA) expressed deep shock at the verdict and is awaiting the detailed judgment. They are in contact with the family members and the legal team and are exploring legal options."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1695294918.jpg",
+                "h1": "Importance of the Case",
+                "p": "The MEA emphasized the significance of the case and its close monitoring of the situation. They are committed to providing consular and legal assistance and plan to raise the verdict with Qatari authorities."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2023/10/26/resized-03-116738812391680178068_1698319281.jpg",
+                "h1": "Arrest and Charges",
+                "p": "The former Indian Navy officers were arrested by Qatari intelligence services in August 2022. The specific charges against them have not been made public by Qatari authorities."
+            }
+        ]
+    },
+    {
+        "storyUrl": "lok-sabha-ethics-committee-summons-tmc-mahua-moitra-over-cash-for-query-allegations",
+        "category": "india_world",
+        "playerItems": [
+            {
+                "template": "CoverItemTemplate",
+                "img": "https://gumlet.assettype.com/freepressjournal/2023-10/585ccfff-6d7b-4cc1-94cd-b47dde4c69b0/Jai_Anant_Dehadrai_and_Mahua_Moitra.jpg",
+                "h1": "Lok Sabha Ethics Committee Summons TMC's Mahua Moitra Over 'Cash-for-Query' Allegations",
+                "logo": "https://www.scrollbyte.com/logo.svg"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://imgeng.jagran.com/images/2023/oct/mahuanewssss1698301491218.jpg",
+                "h1": "Summons for Mahua Moitra",
+                "p": "The Lok Sabha Ethics Committee summoned TMC's Mahua Moitra to appear on October 31 in connection with 'cash-for-query' allegations. The committee, led by Vinod Sonkar, is investigating these allegations and has sought assistance from government ministries."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1662183562.jpg",
+                "h1": "Statements and Evidence",
+                "p": "Earlier, BJP MP Nishikant Dubey and advocate Jai Dehadrai appeared before the committee to record statements and present evidence related to the allegations against Moitra."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://th-i.thgim.com/public/incoming/k05zhw/article67434228.ece/alternates/FREE_1200/20230921165L.jpg",
+                "h1": "Questions Raised",
+                "p": "During the meeting, questions were raised about Nishikant Dubey's motivation behind accusing Moitra of receiving financial benefits for raising questions in Parliament. Moitra raised doubts about the authenticity of Dubey's MBA degree."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.livemint.com/lm-img/img/2023/10/26/1600x900/TMC-Rajghat-7_1698291304070_1698291323555.jpg",
+                "h1": "Background of Allegations",
+                "p": "Dubey's complaint to Speaker Om Birla included documents shared by Dehadrai to support the 'cash-for-query' allegations against Moitra. The Adani Group and Prime Minister Narendra Modi were mentioned in the context of these allegations."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://static.theprint.in/wp-content/uploads/2023/10/Moitra.png",
+                "h1": "Moitra's Response",
+                "p": "Mahua Moitra dismissed the charges as the lies of a 'jilted ex,' referring to Dehadrai, and accused the Adani Group of being behind them. She claimed the allegations were meant to target her for her persistent questioning of the Adani Group's practices and transactions in Parliament."
+            }
+        ]
+    },
+    {
+        "storyUrl": "ed-summons-rajasthan-cm-ashok-gehlot-son-in-forex-violation-case",
+        "category": "india_world",
+        "playerItems": [
+            {
+                "template": "CoverItemTemplate",
+                "img": "https://static.tnn.in/thumb/msid-104719835,thumbsize-64142,width-1280,height-720,resizemode-75/104719835.jpg",
+                "h1": "ED Summons Rajasthan CM Ashok Gehlot's Son in Forex Violation Case",
+                "logo": "https://www.scrollbyte.com/logo.svg"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://images.indianexpress.com/2023/10/page-6.jpg?resize=720,405?w=414",
+                "h1": "ED Summons Vaibhav Gehlot",
+                "p": "The ED summoned Vaibhav Gehlot, the son of Rajasthan Chief Minister Ashok Gehlot, in a foreign exchange violation case. He is expected to request a new appearance date as he needs time to gather documents dating from 2011."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.kayak.co.in/rimg/himg/35/96/9d/expediav2-307964-1df941-566504.jpg?width=1366&height=768&crop=true",
+                "h1": "Linked to Raids on Triton Hotels & Resorts",
+                "p": "The summons is related to recent ED raids on Triton Hotels & Resorts Pvt. Ltd. and its directors and promoters. Rattan Kant Sharma's alleged connections with Vaibhav Gehlot are under investigation, as he was a business partner in a car rental company."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://images.news18.com/ibnlive/uploads/2022/07/untitled-design-2022-07-27t215023.616.jpg",
+                "h1": "Unaccounted Cash Seized",
+                "p": "During the earlier searches, the ED seized unaccounted cash amounting to ₹1.2 crore."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/10/26/db868765061227ccbc0aeb4895ea70eb1698336303445340_original.webp",
+                "h1": "Political Reaction",
+                "p": "The Congress criticized the ED's actions against its leaders in Rajasthan, accusing Prime Minister Narendra Modi of using probe agencies for political purposes. Ashok Gehlot suggested that the raids were motivated by the fear of the BJP's defeat in the upcoming Assembly election."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://intv-cms-images.s3.amazonaws.com/2023/07/ed-1-1689073528.jpg",
+                "h1": "Raids on Congress Leaders",
+                "p": "The ED conducted raids on the premises of Rajasthan Congress president Govind Singh Dotasra and a party candidate in connection with an alleged exam paper leak case in the state."
+            }
+        ]
+    },
+    {
+        "storyUrl": "supreme-court-decision-sparks-abortion-debate-and-highlights-india-laws",
+        "category": "india_world",
+        "playerItems": [
+            {
+                "template": "CoverItemTemplate",
+                "img": "https://images.moneycontrol.com/static-mcnews/2022/01/954956-supreme-court-1.jpg?impolicy=website&width=1600&height=900",
+                "h1": "Supreme Court Decision Sparks Abortion Debate and Highlights India's Laws",
+                "logo": "https://www.scrollbyte.com/logo.svg"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://static.scientificamerican.com/sciam/cache/file/3EA4EB20-0B86-4CFD-B8411CEFC35FE87A_source.jpg",
+                "h1": "Woman's Plea to Terminate Pregnancy",
+                "p": "A married woman, 26 weeks pregnant with her third child, approached the Supreme Court seeking permission to terminate her pregnancy. She cited post-partum depression and health issues and explained that she did not realize she was pregnant due to breastfeeding's contraceptive effect."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.scobserver.in/wp-content/uploads/2022/05/Abortion-copy-scaled.jpg",
+                "h1": "Court's Initial Approval and Subsequent Rejection",
+                "p": "The Supreme Court initially allowed the termination but later reversed its decision after a hospital report indicated the foetus's viability and a medical board's report found no immediate danger to the woman or foetus's life."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://th-i.thgim.com/public/incoming/p2aet9/article65676040.ece/alternates/FREE_1200/Del6372435.jpg",
+                "h1": "Pro-Life vs. Pro-Choice Debate",
+                "p": "The case sparked a debate between pro-life and pro-choice advocates, highlighting the complexity of abortion decisions."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.scobserver.in/wp-content/uploads/2022/05/Abortion-copy-scaled.jpg",
+                "h1": "Laws Surrounding Abortion in India",
+                "p": "The case also brought attention to India's laws on abortion, including the Medical Termination of Pregnancy Act."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/media_bank/202310/abortion--supreme-court-deferred-the-abortion-of-a-26-week-pregnant-woman-105945946-16x9.jpeg?VersionId=39qT6D62mFHlNa1FmPDwXHOyUXoXtBZN",
+                "h1": "Challenges Faced by Women",
+                "p": "Women across India still encounter obstacles in accessing safe and legal abortion services, raising questions about the need for court intervention."
+            }
+        ]
+    }
+]

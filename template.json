@@ -22,6 +22,10 @@ Update the Headline from data in the h1 field of template valued as CoverItemTem
         },
 
 -------------------------
+
+analyze the following paragraph, provide a headline, generate two abstract one with 70-word abstract and another 30 word and suggest relevant hashtags for the topic.
+
+-----------------
 {
     "storyUrl": "",
     "category": "india_world",
