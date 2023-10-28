@@ -1,0 +1,110 @@
+[
+    {
+        "storyUrl": "mizoram-sees-alarming-rise-in-cancer-incidence-and-mortality",
+        "category": "india_world",
+        "playerItems": [
+            {
+                "template": "CoverItemTemplate",
+                "img": "https://images.moneycontrol.com/static-mcnews/2020/02/Cancer.jpg",
+                "h1": "Mizoram Sees Alarming Rise in Cancer Incidence and Mortality",
+                "logo": "https://www.scrollbyte.com/logo.svg"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://scx2.b-cdn.net/gfx/news/hires/2016/11-researchshow.jpg",
+                "h1": "High Cancer Rates",
+                "p": "Mizoram, India's second least populated state, has the highest cancer incidence rate, with a consistent uptick in cancer cases and deaths."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Early_stomach_cancer_2a.jpg",
+                "h1": "Stomach Cancer Prevalence",
+                "p": "Stomach cancer is the leading cause of cancer-related deaths among men in Mizoram, while lung cancer is prominent among women."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.momjunction.com/wp-content/uploads/2015/07/Lung-Cancer-In-Teens-Signs-Causes1-910x1024.jpg",
+                "h1": "Youth Affected",
+                "p": "Cancer rates are rising among the younger generation, potentially due to lifestyle and dietary factors within the tribal population."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.businessinsider.in/photo/77648427/mizorams-aizawl-district-recorded-highest-cancer-cases-in-india.jpg?imgsize=2008111",
+                "h1": "Challenges in Healthcare",
+                "p": "Lack of specialized diagnostic facilities, skilled professionals, genomic research-guided treatment, and transportation issues contribute to rising mortality rates."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://th-i.thgim.com/public/sci-tech/science/3ph024/article67407475.ece/alternates/BASE_SQUARE/national-cancer-institute-pX_cWEBhzZQ-unsplash.jpg",
+                "h1": "Global Cancer Facts",
+                "p": "Cancer is the second leading cause of death worldwide. Lung, prostate, colorectal, stomach, and liver cancer are common in men, while women commonly face breast, colorectal, lung, cervical, and thyroid cancer."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.businessinsider.in/photo/77648427/mizorams-aizawl-district-recorded-highest-cancer-cases-in-india.jpg?imgsize=2008111",
+                "h1": "Mizoram's Cancer Profile",
+                "p": "The most prevalent cancer sites in Mizoram include stomach, head and neck, lung, esophagus, colorectal, liver, urinary, non-Hodgkin's lymphoma, prostate, lung, cervical, breast, stomach, head and neck, colorectal, esophagus, liver, and ovarian cancers among men and women."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://etimg.etb2bimg.com/photo/92057385.cms",
+                "h1": "Projection for Future",
+                "p": "A study estimates a 12.8% increase in cancer cases by 2025 in India, with lung and breast cancers being the leading types."
+            }
+        ]
+    },
+    {
+        "storyUrl": "parliamentary-committee-delays-adoption-of-criminal-law-replacement-bills",
+        "category": "india_world",
+        "playerItems": [
+            {
+                "template": "CoverItemTemplate",
+                "img": "https://www.iihr.res.in/sites/default/files/IMG_8383.JPG",
+                "h1": "Parliamentary Committee Delays Adoption of Criminal Law Replacement Bills",
+                "logo": "https://www.scrollbyte.com/logo.svg"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.newsx.com/wp-content/uploads/2023/08/Add-a-heading.png",
+                "h1": "Postponed Adoption",
+                "p": "The Parliamentary Standing Committee on Home Affairs postponed the adoption of draft reports for three Bills replacing existing criminal laws due to Opposition pressure for more time."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://images.indianexpress.com/2021/07/Untitled-design-2021-07-20T135500.529-1.png",
+                "h1": "Dissent Notes",
+                "p": "Three members, including Adhir Ranjan Chowdhary and Digvijay Singh, filed dissent notes, demanding changes in the proposed criminal laws."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://thedailyguardian.com/wp-content/uploads/2023/07/parliaments-monsoon-session.jpg",
+                "h1": "Language Controversy",
+                "p": "The Hindi nomenclature of the Bills is a key point of contention, with the draft reports not accepting it."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.iihr.res.in/sites/default/files/IMG_8383.JPG",
+                "h1": "Acceptance of Suggestions",
+                "p": "The draft report has accepted suggestions for the Bharatiya Sakshya, meant to replace the Indian Evidence Act, with unanimity."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.newsx.com/wp-content/uploads/2023/08/Add-a-heading.png",
+                "h1": "Consultation Insufficiency",
+                "p": "Opposition members argue that the committee's 12 meetings on the Bills are inadequate considering their significance."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://images.indianexpress.com/2021/07/Untitled-design-2021-07-20T135500.529-1.png",
+                "h1": "Meeting Delay",
+                "p": "The committee's chairman withheld the draft reports at the last meeting, drawing criticism from Trinamool Congress MPs who had made special efforts to attend."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://thedailyguardian.com/wp-content/uploads/2023/07/parliaments-monsoon-session.jpg",
+                "h1": "Future Schedule",
+                "p": "The committee has scheduled its next meeting for November 6 to allow members more time for review and suggestions."
+            }
+        ]
+    }
+]
