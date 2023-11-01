@@ -1,0 +1,92 @@
+[
+    {
+        "storyUrl": "bsf-recovers-drones-near-punjab-international-border",
+        "category": "india_world",
+        "playerItems": [
+            {
+                "template": "CoverItemTemplate",
+                "img": "https://etvbharatimages.akamaized.net/etvbharat/prod-images/01-10-2023/1200-675-19652014-695-19652014-1696122506230.jpg",
+                "h1": "BSF Recovers Drones Near Punjab's International Border",
+                "logo": "https://www.scrollbyte.com/logo.svg"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://www.hindustantimes.com/ht-img/img/2023/07/09/1600x900/Troops-of-Border-Security-Force--BSF--Punjab-Front_1688934269928.jpg",
+                "h1": "Two Drones Found",
+                "p": "Border Security Force (BSF) officials recovered two drones in separate incidents near the International Border in Amritsar and Tarn Taran districts."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/02/fdg-1675837317.jpg",
+                "h1": "Operation in Amritsar",
+                "p": "BSF conducted a search operation in Amritsar's Daoke village based on specific information and found a Chinese drone in a field."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://economictimes.indiatimes.com/thumb/msid-76477056,width-1600,height-900,resizemode-4/news/defence/j-k-bsf-shoots-down-pakistani-spy-drone-carrying-weapons-in-kathua.jpg",
+                "h1": "Tarn Taran Recovery",
+                "p": "On October 28, a joint operation with Punjab Police in Dholan village, Tarn Taran, led to the recovery of another Chinese quadcopter drone."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://images.hindustantimes.com/img/2022/11/14/1600x900/drones_across_border_more_than_double_bsf_dg_1668389141380_1668389141547_1668389141547.jpg",
+                "h1": "Smuggler's Foiled Attempt",
+                "p": "BSF thwarted another attempt by smugglers to use drones for narcotic smuggling, preventing illegal activities."
+            }
+        ]
+    },
+    {
+        "storyUrl": "two-dead-many-injured-in-convention-center-fire-near-kochi",
+        "category": "india_world",
+        "playerItems": [
+            {
+                "template": "CoverItemTemplate",
+                "img": "https://img.onmanorama.com/content/dam/mm/en/kerala/top-news/images/2023/10/29/kochi-blast-2.jpg",
+                "h1": "Two Dead, Many Injured in Convention Center Fire near Kochi",
+                "logo": "https://www.scrollbyte.com/logo.svg"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://bl-i.thgim.com/public/incoming/275uma/article67472792.ece/alternates/FREE_1200/WhatsApp%20Image%202023-10-29%20at%2013.46.44.jpeg",
+                "h1": "Fire and Blasts Erupt",
+                "p": "A fire with explosions occurred at Zamra International Convention Centre during a Jehovah’s Witnesses prayer meeting."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://images.deccanherald.com/deccanherald/2023-10/4e4c6e76-21e3-4116-8db7-20a596c16f57/PTI10_29_2023_000044A.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+                "h1": "Casualties and Injuries",
+                "p": "Two people died, and several were injured, including a child. Five are in critical condition and admitted to a nearby hospital."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://kpnews24x7.com/wp-content/uploads/2023/10/Kochi-Christian-Convention-Blast-JPG.jpg",
+                "h1": "Claim of Responsibility",
+                "p": "A former member of the evangelist group surrendered, claiming responsibility for the attack, suggesting an 'insider attack.'"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://bl-i.thgim.com/public/incoming/275uma/article67472792.ece/alternates/FREE_1200/WhatsApp%20Image%202023-10-29%20at%2013.46.44.jpeg",
+                "h1": "Investigation Focus",
+                "p": "Police are investigating the religious organization's internal dynamics and other potential leads, including a suspicious car and radical groups."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://bl-i.thgim.com/public/incoming/275uma/article67472792.ece/alternates/FREE_1200/WhatsApp%20Image%202023-10-29%20at%2013.46.44.jpeg",
+                "h1": "Zealous Member's Allegations",
+                "p": "The attacker, once a member for 16 years, accused the group of propagating anti-national sentiments and encouraging isolation from non-members."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://bl-i.thgim.com/public/incoming/275uma/article67472792.ece/alternates/FREE_1200/WhatsApp%20Image%202023-10-29%20at%2013.46.44.jpeg",
+                "h1": "Government Response",
+                "p": "Kerala's Chief Minister called an all-party meeting to address the social impact of the blast, and the state health minister expects the death toll to rise."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "https://bl-i.thgim.com/public/incoming/275uma/article67472792.ece/alternates/FREE_1200/WhatsApp%20Image%202023-10-29%20at%2013.46.44.jpeg",
+                "h1": "IED Used in Attack",
+                "p": "The police confirmed the use of an improvised explosive device (IED) and warned against spreading malicious misinformation online."
+            }
+        ]
+    }
+]

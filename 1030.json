@@ -1,0 +1,152 @@
+[
+    {
+        "storyUrl": "attorney-general-supports-electoral-bonds-scheme-in-supreme-court",
+        "category": "india_world",
+        "playerItems": [
+            {
+                "template": "CoverItemTemplate",
+                "img": "",
+                "h1": "Attorney General Supports Electoral Bonds Scheme in Supreme Court",
+                "logo": "https://www.scrollbyte.com/logo.svg"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "",
+                "h1": "Promoting Clean Money",
+                "p": "Venkataramani backs the scheme, emphasizing its promotion of clean money in politics."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "",
+                "h1": "Tax Obligations Ensured",
+                "p": "The scheme ensures tax obligations are met, according to the Attorney General."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "",
+                "h1": "Right to Know with Restrictions",
+                "p": "Citizens' right to know is subject to reasonable restrictions under Article 19(2)."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "",
+                "h1": "Petitions Against Electoral Bonds",
+                "p": "Constitution Bench to hear petitions on anonymous fund flow in electoral bonds."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "",
+                "h1": "Limitations on Right to Know",
+                "p": "Attorney General argues that the right to know should serve specific ends, not be overly broad."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "",
+                "h1": "Regulation of Political Donations",
+                "p": "The electoral bonds scheme is seen as a regulatory step under Article 19(2)."
+            }
+        ]
+    },
+    {
+        "storyUrl": "supreme-court-dismisses-bail-plea-manish-sisodia-money-laundering",
+        "category": "india_world",
+        "playerItems": [
+            {
+                "template": "CoverItemTemplate",
+                "img": "",
+                "h1": "Supreme Court Dismisses Manish Sisodia's Bail Plea in Money Laundering Case",
+                "logo": "https://www.scrollbyte.com/logo.svg"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "",
+                "h1": "Reason for Bail Denial",
+                "p": "Transfer of ₹338 crore established as a reason for denying bail."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "",
+                "h1": "Trial Duration Assurance",
+                "p": "Prosecution assures trial conclusion in six to eight months."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "",
+                "h1": "Conditional Bail Application",
+                "p": "Sisodia can apply for bail if the trial proceeds sloppily."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "",
+                "h1": "PMLA Offence Without Bribery Charge",
+                "p": "Court questions PMLA charge without bribery charge against Sisodia."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "",
+                "h1": "Establishing Unbroken Chain of Evidence",
+                "p": "Court emphasizes the need to establish a chain linking Sisodia with the liquor lobby."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "",
+                "h1": "PMLA Provisions and Proceeds of a Crime",
+                "p": "Discussion on when PMLA provisions apply, related to bribery and proceeds of a crime."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "",
+                "h1": "Arrest and Allegations",
+                "p": "Sisodia's arrest and allegations of corruption in the Delhi Excise Policy."
+            }
+        ]
+    },
+    {
+        "storyUrl": "chief-justice-questions-indefinite-suspension-on-raghav-chadha",
+        "category": "india_world",
+        "playerItems": [
+            {
+                "template": "CoverItemTemplate",
+                "img": "",
+                "h1": "Chief Justice Questions Indefinite Suspension of Raghav Chadha",
+                "logo": "https://www.scrollbyte.com/logo.svg"
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "",
+                "h1": "Loss of Sense of Humor in Public Life",
+                "p": "Chief Justice Chandrachud comments on the death of humor in public life."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "",
+                "h1": "Chadha's Remark and Suspension",
+                "p": "Chadha suspended for a casual quip and sending 'birthday invitation cards' to members."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "",
+                "h1": "Dignity of the House",
+                "p": "Chief Justice questions if Chadha's remark reduced the House's dignity."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "",
+                "h1": "Exclusion of Opposition Members",
+                "p": "Importance of not excluding voices from the Parliament, even if they differ from the government."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "",
+                "h1": "Indefinite Suspension Concerns",
+                "p": "Court expresses concern over indefinite suspension and the need for diverse voices in Parliament."
+            },
+            {
+                "template": "TextWithImageTemplate",
+                "img": "",
+                "h1": "Power to Suspend Indefinitely",
+                "p": "Chadha's argument against indefinite suspension and the potential for abuse of power."
+            }
+        ]
+    }
+]

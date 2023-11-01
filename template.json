@@ -1,4 +1,4 @@
-Please analyze the following paragraph, provide a headline, extract key points with relevant headings, generate a 50-word abstract, and suggest relevant hashtags for the topic. Also, include some generic news-related hashtags.
+Please analyze the following paragraph, provide a headline, extract at max 6 to 7 key points with relevant headings. Keep only one point in one heading. Keep length of each key point within 210 characters.
 
 Create a json structure from the data generated in a format provided in the last.
 Update the storyUrl field using Headline as data and join each word in storyUrl using hyphen.
